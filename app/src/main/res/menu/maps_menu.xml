@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Current Location"
+        android:id="@+id/current_location_id"
+        android:icon="@drawable/currentlocation"
+        app:showAsAction="ifRoom">
+    </item>
+    <item
+        android:title="Solved Problems"
+        android:id="@+id/solved"/>
+</menu>
